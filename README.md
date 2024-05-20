@@ -1,5 +1,22 @@
-Here I have created a mini project of ATM using C++.
-So this mini project is going to consist of ATM functionalities implimented using OOP concepts.
-The functionalities are: 1) Check balance: The user can check the account balance. 2) Cash WithDraw: User can Withdraw cash from the ATM, but the only condition is
-user must enter the valid input, like the amount to be withdraw should be less than account balance. 3) User Details: User can see and cross check  details with bank.
-4) Update Mobile no. :The user can update mobile number linked to the bank account.
+This mini project is an implementation of an ATM system using C++. The project leverages Object-Oriented Programming (OOP) concepts to simulate basic ATM functionalities. Below are the features included in this project:
+
+Features
+1. Check Balance:
+  Users can check their account balance.
+
+2. Cash Withdrawal:
+  Users can withdraw cash from their accounts.
+  The withdrawal amount must be less than or equal to the account balance and must be a valid input.
+
+3. User Details:
+  Users can view and verify their details with the bank.
+
+4. Update Mobile Number:
+  Users can update the mobile number linked to their bank account.
+  This project is designed to provide a basic understanding of how an ATM operates, focusing on user interactions and account management.
+  
+
+
+
+
+
